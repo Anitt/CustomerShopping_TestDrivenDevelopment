@@ -1,0 +1,29 @@
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<authordealerresponse>
+    <error>success</error>
+    <errormessage>success</errormessage>
+    <result>success</result>
+</authordealerresponse>
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<itemresponse>
+    <errormessageresponse>success</errormessageresponse>
+    <partnumberresponse>1234</partnumberresponse>
+    <quantityresponse>2</quantityresponse>
+    <resultresponse>valid</resultresponse>
+</itemresponse>
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<itemresponse>
+    <errormessageresponse>success</errormessageresponse>
+    <partnumberresponse>5678</partnumberresponse>
+    <quantityresponse>25</quantityresponse>
+    <resultresponse>valid</resultresponse>
+</itemresponse>
+
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<dealernotauthorizedresponse>
+    <error>authorized dealer</error>
+    <result>success</result>
+</dealernotauthorizedresponse>
